@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ranjith Reddy N
 - 👀 I’m interested in Web Development and Software Development.
-- 🌱 I’m currently learning Frontend and Python Programming
-- 💞️ I’m looking to collaborate on FULLSTACK development and PYTHON Programming Concepts.
+- 🌱 I’m currently learning Frontend and Java Programming
+- 💞️ I’m looking to collaborate on FULLSTACK Web development.
 - 📫 you can reach me @   ===> ranjeethnivas8@gmail.com
 
 <!---
